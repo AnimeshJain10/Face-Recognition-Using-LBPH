@@ -9,7 +9,7 @@ Machine Learning
 Classifier Used: 
 Haar Cascade
 
-Algorithm Used For Preditcion:
+Algorithm Used For Prediction:
 Local Binary Pattern Histogram
 
 Dataset Used:
